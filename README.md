@@ -22,7 +22,7 @@ Using clinical and demographic records from **1,025 patients** (deduplicated to 
 
 ## Visual Highlights
 ![Correlation Matrix](images/correlation_matrix.png)
-![Chest Pain Type by Heart Disease Status](images/chest_pain_by_status.png)
+![Chest Pain Type by Heart Disease Status](images/chest_pain_status.png)
 
 ## Repository Contents
 * `heart_disease_classification.R` — Complete R script for preprocessing, deduplication, `ggplot2` visualizations, C5.0 Decision Tree, Naive Bayes, and K-Means clustering.
